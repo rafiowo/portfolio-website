@@ -5,7 +5,11 @@
     margin: 0;
     overflow-x: hidden;
 }
-
+.project-card {
+    border-color: #ff7424;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 16px rgba(255, 116, 36, 0.15);
+}
 .navbar {
     position: fixed;
     color: inherit;
